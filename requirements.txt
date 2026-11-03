@@ -1,0 +1,24 @@
+# Core Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Scientific & Mathematical Computing
+numpy>=1.24.0
+scipy>=1.10.0
+pandas>=2.0.0
+
+# Computer Vision & Image Processing
+Pillow>=9.5.0
+
+# Machine Learning & Evaluation Metrics
+scikit-learn>=1.2.0
+
+# Visualization & Progress Tracking
+matplotlib>=3.7.0
+tqdm>=4.65.0
+
+# Configuration Management
+PyYAML>=6.0
+
+# Optional: Interactive Notebooks
+ipywidgets>=8.0.0

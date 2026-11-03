@@ -1,0 +1,96 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Logs and runtime artifacts
+*.log
+logs/
+tmp/
+temp/
+
+# Credentials & Secrets
+.env
+.env.*
+*.pem
+*.key
+*.cert
+credentials.json
+token.json
+secrets.json
+
+# Large Datasets & Archives
+data/real_vs_fake/
+data/*.csv
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Model Checkpoints & Large Weights (>10MB)
+models/*.pth
+models/*.pt
+models/*.ckpt
+models/*.bin
+models/*.onnx
+models/*.h5
+
+# Generated experiment outputs (keep sample artifact)
+results/*
+!results/.gitkeep
+!results/README.md
+!results/demo_processed_gaussian_blur_r2.jpg

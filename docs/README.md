@@ -14,7 +14,9 @@ This directory contains the final, authoritative publication documentation for t
   - Chilukuri Venkata Uday Adhitya (`adithya.24bca7974@vitapstudent.ac.in`)
   - Devarakonda Yaswanth (`yaswanth.24bca8001@vitapstudent.ac.in`)
 - **Affiliation**: School of Computer Science and Engineering (SCOPE), VIT-AP University, Amaravati, Andhra Pradesh, India
-- **Format**: Standard IEEE Two-Column Conference Format (11 pages, camera-ready)
+- **Format**: Standard IEEE Two-Column Conference Format (camera-ready)
+- **Primary Public Repository**: [https://github.com/gowthampoola/robust-deepfake-detection-efficientnet-b0](https://github.com/gowthampoola/robust-deepfake-detection-efficientnet-b0)
+- **Author Mirror Repository**: [https://github.com/bolla-hemanth/robust-deepfake-detection-efficientnet-b0](https://github.com/bolla-hemanth/robust-deepfake-detection-efficientnet-b0)
 
 ---
 

@@ -135,9 +135,13 @@ Defined with authentic facial photographs as the positive class ($y=1$):
 
 ### Step 1: Environment Setup
 ```bash
-# Clone repository
-git clone https://github.com/bolla-hemanth/robust-deepfake-detection-efficientnet-b0.git
+# Clone repository (Verified Public Repository)
+git clone https://github.com/gowthampoola/robust-deepfake-detection-efficientnet-b0.git
 cd robust-deepfake-detection-efficientnet-b0
+
+# Alternative Mirror:
+# git clone https://github.com/bolla-hemanth/robust-deepfake-detection-efficientnet-b0.git
+```
 
 # Create and activate virtual environment
 python -m venv .venv
@@ -254,11 +258,15 @@ Deepfake_Detection_GitHub_Repository/
 
 ---
 
-## 10. Final Research Paper Location
+## 10. Research Paper & Repository Locations
 
-The authoritative camera-ready publication paper is located at:
+The authoritative publication paper is located at:
 - **Path:** [`docs/Deepfake_Detection_Final_Paper.pdf`](docs/Deepfake_Detection_Final_Paper.pdf)
-- **Format:** IEEE Conference format (11 pages), complete with mathematical formulations, full architectural block diagrams, experimental benchmarks, error analysis, and 45 verified citations.
+- **Format:** IEEE Conference format, complete with mathematical formulations, full architectural block diagrams, experimental benchmarks, error analysis, and 45 verified citations.
+
+### Public Repository Links:
+- **Primary Verified Repository:** [https://github.com/gowthampoola/robust-deepfake-detection-efficientnet-b0](https://github.com/gowthampoola/robust-deepfake-detection-efficientnet-b0)
+- **Author Mirror Repository:** [https://github.com/bolla-hemanth/robust-deepfake-detection-efficientnet-b0](https://github.com/bolla-hemanth/robust-deepfake-detection-efficientnet-b0)
 
 ---
 
